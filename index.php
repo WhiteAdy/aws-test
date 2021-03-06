@@ -7,6 +7,6 @@
     <title>Git Test</title>
 </head>
 <body>
-    <h1>Git integration test update 1</h1>
+    <h1>Git integration test update 2</h1>
 </body>
 </html>
